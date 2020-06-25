@@ -7,5 +7,12 @@ namespace Board
         public int columnNumber { get; set; }
         public bool occupied { get; set; }
         public bool legalMove { get; set; }
+
+        public CellHold(int xValue, int yValue)
+        {
+            rowNumber = xValue;
+            columnNumber = yValue;
+
+        }
     }
 }
