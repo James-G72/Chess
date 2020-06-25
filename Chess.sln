@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{155A1BAB-5A40-4D34-AC41-0A119EAFCB4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Board", "Board\Board.csproj", "{1C5376B2-A684-49C7-8C69-9090BF09AF02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6FC9FFD9-9957-4151-9C7F-570158D02C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +17,9 @@ Global
 		{155A1BAB-5A40-4D34-AC41-0A119EAFCB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{155A1BAB-5A40-4D34-AC41-0A119EAFCB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{155A1BAB-5A40-4D34-AC41-0A119EAFCB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5376B2-A684-49C7-8C69-9090BF09AF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5376B2-A684-49C7-8C69-9090BF09AF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5376B2-A684-49C7-8C69-9090BF09AF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5376B2-A684-49C7-8C69-9090BF09AF02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
